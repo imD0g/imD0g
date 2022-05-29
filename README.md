@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imD0g
 - 👀 I’m interested in - Learning and absorbing new information 
-- 🌱 I’m currently learning - JS, React, PHP, HTML, CSS
+- 🌱 I’m currently learning - Python, , HTML, CSS
 - 💞️ I’m looking to collaborate on - Anything
 - 📫 How to reach me - idk
 
