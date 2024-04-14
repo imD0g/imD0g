@@ -1,28 +1,20 @@
-<h1 align="center">Hi there! 👋 I'm Cameron, a QA Automation Engineer.</h1>
-
-<p align="center">I'm passionate about learning new technologies and languages. Currently, I'm focusing on PHP, MySQL, and Postman to enhance my skills.</p>
-
-
-## About Me
-- 🔭 Working on super secret projects, all locked in private repos.
-- 🌱 Learning PHP, MySQL, Postman.
-- 👯 Open to collaboration on anything!
-- 🤝 Looking for feedback on my work. Any feedback is good feedback, good or bad! 🙂
-
-## Technologies and Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-</p>
-
-## GitHub Stats
-<div style="display: flex; justify-content: space-between; width: 80%; margin: 0 auto;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imd0g&show_icons=true&locale=en&layout=compact" alt="imd0g" style="width: 100%; height: 200px; object-fit: cover;" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=imd0g&show_icons=true&locale=en" alt="imd0g" style="width: 100%; height: 200px; object-fit: cover;" />
+<h2> Hello, I am Cameron! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<div style="float: right; text-align: right;">
+    <img align='right' src="https://doggos.dog/static/media/dogcollection.cf0bce48e852a86d223b.gif" width="300">
+    <p><em>SDET at <a href="https://www.unicard-uk.com/">UniCard</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ4aTBoNHg0dnVxMTYzMmViNXA4YXJuNWh2dXlsaTIycDlyZ2JkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LsjOTIBgO2C4B7xWI9/giphy.gif" width="30">
+    </em></p>
 </div>
+
+
+[![GitHub imD0g](https://img.shields.io/github/followers/imD0g?label=follow&style=social)](https://github.com/imD0g) <-- Follow me!
+
+
+### About me...  
+
+```java
+public class Cameron {
+    private String[] code = {"Java", "Python", "PHP", "JavaScript", "HTML", "CSS"};
+    private String[] tools = {"Selenium", "Cucumber", "Docker", "RestAssured", "Appium"};
+    private String[] testingApproaches = {"Black-box", "White-box", "Integration", "Regression", "Unit"};
+    private TechCommunities techCommunities = new TechCommunities("TechMeetup", "PythonGlasgow");
+}
